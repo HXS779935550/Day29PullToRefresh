@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.SlidingPaneLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/spl"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.myslidingpane.MainActivity">
+    <fragment
+        android:id="@+id/leftFragment"
+        android:name="com.example.myslidingpane.leftFragment"
+        android:layout_width="150dp"
+        android:layout_height="match_parent"/>
+    <fragment
+        android:id="@+id/rightFragment"
+        android:name="com.example.myslidingpane.rightFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</android.support.v4.widget.SlidingPaneLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Program Files\\feiq\\Recv Files\\Day29PullToRefresh\\pull_to_refresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\Program Files\\feiq\\Recv Files\\Day29PullToRefresh\\pull_to_refresh_library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\feiq\\Recv Files\\Day29PullToRefresh\\pull_to_refresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\Program Files\\feiq\\Recv Files\\Day29PullToRefresh\\pull_to_refresh_library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\feiq\\Recv Files\\Day29PullToRefresh\\pull_to_refresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\Program Files\\feiq\\Recv Files\\Day29PullToRefresh\\pull_to_refresh_library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\Program Files\\feiq\\Recv Files\\Day29PullToRefresh\\pull_to_refresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\Program Files\\feiq\\Recv Files\\Day29PullToRefresh\\pull_to_refresh_library\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+    }
+]

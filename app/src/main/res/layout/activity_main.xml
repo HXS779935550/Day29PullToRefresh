@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.handmark.pulltorefresh.library.PullToRefreshListView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pulltorefresh_lsitview"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.shinelon.day29pulltorefresh.MainActivity">
+
+</com.handmark.pulltorefresh.library.PullToRefreshListView>

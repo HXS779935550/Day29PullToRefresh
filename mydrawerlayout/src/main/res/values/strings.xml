@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyDrawerLayout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="drawerListView">
+        <item>百度</item>
+        <item>腾讯</item>
+        <item>淘宝</item>
+        <item>土豆</item>
+    </string-array>
+</resources>
