@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
             list.add("计步器"+i);
         }
     }
-
+    //66666666666
     private void initData() {
         ptf= (PullToRefreshListView) findViewById(R.id.pulltorefresh_lsitview);
         adapter = new ArrayAdapter(this,android.R.layout.simple_list_item_1,list);
