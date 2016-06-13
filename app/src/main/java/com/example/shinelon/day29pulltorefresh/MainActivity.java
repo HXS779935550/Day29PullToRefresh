@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //888888
+        //22222
         initListData();
         initData();
         ptf.setOnRefreshListener(new PullToRefreshBase.OnRefreshListener<ListView>() {
